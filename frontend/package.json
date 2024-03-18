@@ -1,6 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
+  "proxy": "https://taskmern-dhbio5wb.b4a.run",
   "private": true,
   "dependencies": {
     "-": "^0.0.1",
