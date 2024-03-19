@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = '/api/tasks/';
+const API_URL = 'https://taskmern-dhbio5wb.b4a.run/api/tasks/';
 
 const createTask = async (taskData, token) => {
     const config = {
